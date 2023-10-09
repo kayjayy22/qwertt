@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const Hero8 = () => {
   return (
     <div className="bg-amber-100 h-screen relative -z-20">
-      <div className="text-[25rem] text-stone-300 opacity-50 font-bold absolute -z-10 top-0 left-48 w-2/3 leading-none text-right">
+      <div className="text-[25rem] text-amber-200 opacity-50 font-bold absolute -z-10 top-0 left-48 w-2/3 leading-none text-right">
         WHY US
       </div>
       <div className="p-10 z-20">
